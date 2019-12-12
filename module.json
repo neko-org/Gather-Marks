@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Gather-Marks",
+    "author": "Neko",
+    "description": "Spawns an item marker beam on specified gathering nodes",
+    "options": {
+        "niceName": "Gather-Marks",
+        "guiName": "Gather-Marks"
+    },
+    "servers": ["https://raw.githubusercontent.com/patricksantozz/Gather-Marks/master/"],
+    "supportUrl": "https://github.com/patricksantozz/Gather-Marks/issues"
+}

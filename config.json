@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "markenabled": true,
+    "message": false,
+    "alerts": false,
+    "Item_ID": 88850,
+    "whiteList": [],
+    "markList": [1,2,3,4,5,6,101,102,103,104,105,106,201,202,203,204,205,206,814]
+}
