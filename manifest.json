@@ -1,7 +1,5 @@
 {
     "files": {
-        "README.MD": "64c3bf82b11bcd3e03ea4a50f919fc1fbc1a51b648defaf09eb92079a21b84c4",
-        "README.md": "ba1c2ab42e5de2201182f16ae3ea8d7618117987dbd0eafe5daa01e10b03b791",
         "config.json": {
             "overwrite": false,
             "hash": "cbfd598b7010087bdaf608f38285b467078c36f434a03046d751958abc9eab9e"
